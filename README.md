@@ -1,5 +1,5 @@
 # 翻译中国
-==== 
+ 
 * Translate-China
 * Translate Anything about China, Make the World Know China Better~~!
 
